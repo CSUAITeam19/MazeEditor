@@ -1,0 +1,12 @@
+1.maze.txt 默认读取路径 D:\maze.txt
+2.answer.txt 默认输出路径 D:\answer.txt
+3.含参数调用可执行文件方式为 Maze_x.exe in-path out-path
+3.名称说明:
+    Maze_1     dfs
+    Maze_2     bfs
+    Maze_3     A*（曼哈顿距离）
+    Maze_4     A*（欧式距离）
+    Maze_5     A*（切比雪夫距离）
+    Maze_6     UCS
+    Maze_7     GBFS
+    Maze_8     IDA*

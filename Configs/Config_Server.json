@@ -1,0 +1,10 @@
+{
+    "dx"  : "default",
+    "min" : 10,
+    "max" : 128,
+    "ConsoleApp" : "\\Library\\Create_mode.exe",
+    "Maze_Viewer" : "\\Builds\\MazeViewer_v1.2\\MazeViewer.exe",
+    "Algorithm" : "\\Library",
+    "MazeViewerVail" : true
+
+}

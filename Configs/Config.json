@@ -1,0 +1,7 @@
+{
+    "mazeEditorAddress": ">tcp://127.0.0.1:25565",
+    "mazePath": "D:\\Repos\\Qt\\MazeCracker\\TestConsole\\Maze_for_c.txt",
+    "resultPath": "D:\\Repos\\Qt\\MazeCracker\\TestConsole\\result.txt",
+    "maxInfoCount": 6,
+    "infoLifeTime": 3.0
+}
